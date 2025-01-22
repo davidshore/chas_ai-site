@@ -85,7 +85,7 @@ I det här grupparbetet ska ni arbeta i team för att skapa en interaktiv webbpl
 
 1. **Addera backend**
 
-   - Skapa en backend i Express som sköter all kommunikation med API:et.
+   - Skapa en backend i Express eller Nextjs som sköter all kommunikation med Gemini API:et.
    - Lägg till anrop med `fetch` i frontend för att kommunicera med backend.
 
 2. **Local storage**
