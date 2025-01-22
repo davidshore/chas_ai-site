@@ -94,7 +94,7 @@ I det här grupparbetet ska ni arbeta i team för att skapa en interaktiv webbpl
      - På en sida kan användaren välja inställningar eller skriva in information, t.ex. ett namn eller preferenser.
      - Dessa inställningar sparas i `localStorage` och kan laddas på en annan sida för att personifiera innehållet.
    - **Exempel 2:**
-     - Spara en lista med användarens favoriter (t.ex. favoriterade karaktärer, bilder, eller artiklar) i `localStorage` så att dessa är tillgängliga även efter siduppdatering eller vid navigering till andra sidor.
+     - Spara en lista med användarens favoriter (t.ex. favorit-karaktärer, frågor, eller artiklar) i `localStorage` så att dessa är tillgängliga även efter siduppdatering eller vid navigering till andra sidor.
    - **Tekniskt tips:**
      - **Spara till `localStorage`:**
        ```javascript
