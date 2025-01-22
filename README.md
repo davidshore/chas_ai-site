@@ -62,7 +62,6 @@ I det här grupparbetet ska ni arbeta i team för att skapa en interaktiv webbpl
    - Sidan ska vara responsiv och fungera på både dator och mobil.
 2. **Kodhantering:**
    - Alla gruppmedlemmar ska bidra till ett gemensamt GitHub-repo.
-   - Skapa "pull requests" och genomför kodgranskning innan ni merge:ar.
 3. **Design:**
    - Alla sidor ska ha en enhetlig design för att skapa en professionell användarupplevelse.
    - Använd gärna komponentbibliotek som Radix, Daisy UI eller Flowbite React.
