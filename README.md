@@ -22,7 +22,6 @@ I det här grupparbetet ska ni arbeta i team för att skapa en interaktiv webbpl
 
 - Använd Git för versionshantering.
 - Skapa ett gemensamt GitHub-repo där alla gruppmedlemmar bidrar.
-- Skapa "pull requests" och genomför kodgranskningar för att samarbeta effektivt.
 
 ---
 
